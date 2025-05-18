@@ -1,3 +1,5 @@
+![dinoverse](https://github.com/user-attachments/assets/bf224e29-6e2e-4f2e-8374-f3a55a25023e)
+
 
 
 > Open this page at [https://miskexx.github.io/dinoverse/](https://miskexx.github.io/dinoverse/)
