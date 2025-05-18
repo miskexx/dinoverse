@@ -116,6 +116,8 @@ let wave = 0
 let textSprite: TextSprite = null
 let list: Image[] = []
 let mySprite: Sprite = null
+game.showLongText("Dostal/a jsi se do dávných časů, kde planetě stále vládnou dinosauři.", DialogLayout.Center)
+game.showLongText("Hraj pomocí šipek, hra využívá autofire", DialogLayout.Center)
 let directionEnemy = 0
 let dx = 0
 let position = 0
